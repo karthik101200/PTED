@@ -1,0 +1,2 @@
+1] Can cost returned by the cost function of pattern vector be negative?
+2] How to use the size of the bin(beta) in representing the pattern vector G?
